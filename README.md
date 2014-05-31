@@ -8,4 +8,5 @@ Add this directly to source/micromax/a110/ all prebuilt kernel and modules inclu
 Remember to give proper credits and links to the device tree you use to build ROMs/Recoveries
 
 Thank you
+
 MasterAwesome
