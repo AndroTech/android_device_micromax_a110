@@ -1,0 +1,1 @@
+android_device_micromax_a110
